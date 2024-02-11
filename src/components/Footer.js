@@ -43,8 +43,7 @@ const Footer = () => {
       </div>
       <div className="tag-footer">
         <p>
-          Dibuat oleh Muh Nur Aqsal Aminullah menggunakan ReactJS untuk
-          melakukan RE: Coding Challenge PT. AIC
+          Dibuat oleh Muh Nur Aqsal Aminullah menggunakan ReactJS
         </p>
       </div>
     </div>
